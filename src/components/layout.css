@@ -21,3 +21,20 @@ ul {
   background-color: #fff;
   color: #1f1f1f;
 }
+
+a:visited {
+  color: #00f;
+}
+
+a:hover {
+  background: #fff;
+  color: #f00;
+}
+
+a:active { 
+  color: #fff;
+  background: #0ff;
+}
+
+  
+  
