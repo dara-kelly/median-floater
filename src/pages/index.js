@@ -8,10 +8,10 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Hi people</h1>
+    <h1>Hide if you think you can</h1>
   <div class="full">
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <p>This is the site while it is being built.</p>
+    <p>Don't get caught.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
       width={300}
@@ -23,7 +23,6 @@ const IndexPage = () => (
   </div>
     <p>
       <Link to="/page-2/">Go to page 2</Link> <br />
-      <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
     </p>
   </Layout>
 )
