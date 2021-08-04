@@ -13,7 +13,7 @@ const Header = ({ siteTitle }) => (
       marginRight: `1rem`,
       marginTop:`2rem`,
       margin:`auto`,
-      max-width:`1250px`,
+      maxWidth:`1250px`,
     }}
   >
 
