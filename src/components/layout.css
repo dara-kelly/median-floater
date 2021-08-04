@@ -1,14 +1,26 @@
-head {
+header {
   background-color: #000;
-  font-family: Verdana;
+  font-family: Courier;
   font-size: 16px;
   color: #00f;
+  margin-left: 5rem;
+  margin-right: 5rem;
 }
 
 
 body {
   background-color: #ff0;
-  font-family: Verdana;
+  font-family: Courier;
   font-size: 10px;
-  color: "black";
+  color: #f00;
+}
+
+div {
+  background-color: #fff;
+  color: #1f1f1f;
+}
+
+ul {
+  background-color: #fff;
+  color: #1f1f1f;
 }
