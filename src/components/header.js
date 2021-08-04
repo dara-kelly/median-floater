@@ -11,6 +11,9 @@ const Header = ({ siteTitle }) => (
       fontSize: `16px`,
       marginLeft: `1rem`,
       marginRight: `1rem`,
+      marginTop:`2rem`,
+      margin:`auto`,
+      max-width:`1250px`,
     }}
   >
 
