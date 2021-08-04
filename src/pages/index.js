@@ -8,7 +8,7 @@ import Seo from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <Seo title="Home" />
-    <h1>Hide if you think you can</h1>
+    <h1>Under construction</h1>
   <div class="full">
     <p>This is the site while it is being built.</p>
     <p>Don't get caught.</p>
