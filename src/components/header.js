@@ -9,8 +9,8 @@ const Header = ({ siteTitle }) => (
       Color: "blue",
       fontFamily: `Courier`,
       fontSize: `16px`,
-      marginLeft: `5rem`,
-      marginRight: `5rem`,
+      marginLeft: `1rem`,
+      marginRight: `1rem`,
     }}
   >
 
