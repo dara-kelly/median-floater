@@ -8,3 +8,4 @@
 
 import "@fontsource/montserrat"
 import "@fontsource/merriweather"
+import "@fontsource/space-grotesk"

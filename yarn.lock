@@ -1078,6 +1078,11 @@
   "resolved" "https://registry.npmjs.org/@fontsource/montserrat/-/montserrat-4.5.0.tgz"
   "version" "4.5.0"
 
+"@fontsource/space-grotesk@^4.5.0":
+  "integrity" "sha512-Kdnq5m31DsJ8l/VCpZGz4QpIxLLvNVh4MyVGY0PmDh7aY9aM5rmO2NF49dJ0749gLPgMW6Moc/xjgW95G0MbMg=="
+  "resolved" "https://registry.npmjs.org/@fontsource/space-grotesk/-/space-grotesk-4.5.0.tgz"
+  "version" "4.5.0"
+
 "@gatsbyjs/reach-router@^1.3.5", "@gatsbyjs/reach-router@^1.3.6":
   "integrity" "sha512-RW9ZBir9kqtw4IWm+Z+DLWGOeoJxoaTvNVrnR5fV9zD8EmfAhbBN/hS6i6VnTMFZ7rdd6mnpx2/XtnMvYfsaVQ=="
   "resolved" "https://registry.npmjs.org/@gatsbyjs/reach-router/-/reach-router-1.3.6.tgz"

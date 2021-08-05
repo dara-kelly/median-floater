@@ -17,6 +17,10 @@ p {
   padding-top: 1rem;
 }
 
+h1 {
+  font-family: "Space-Grotesk";
+}
+
 ul {
   background-color: #fff;
   color: #1f1f1f;
