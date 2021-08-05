@@ -7,7 +7,7 @@ const Header = ({ siteTitle }) => (
     style={{
       backgroundColor: `white`,
       Color: "blue",
-      fontFamily: `Space-Grotesk`,
+      fontFamily: `Space Grotesk`,
       fontSize: `20px`,
       marginLeft: `1rem`,
       marginRight: `1rem`,
