@@ -12,6 +12,13 @@ div.full {
   margin-right: 1rem
 }
 
+div.blog-post-container {
+  background-color: #fff;
+  color: #1f1f1f;
+  margin-left: 1rem;
+  margin-right: 1rem
+}
+
 p {
   padding-left: 1rem;
   padding-top: 1rem;
