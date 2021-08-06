@@ -16,13 +16,8 @@ div.blog-post-content {
   background-color: #fff;
   color: #1f1f1f;
   margin: auto;
-  padding: 2rem;
+  padding: 2%;
   max-width: 960px;
-}
-
-p {
-  padding-left: 2%;
-  padding-top: 2%;
 }
 
 h1 {
