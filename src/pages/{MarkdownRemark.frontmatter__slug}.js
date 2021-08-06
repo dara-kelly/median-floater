@@ -16,8 +16,9 @@ export default function Template({
           maxWidth: 960,
           padding: `0 1.0875rem 1.45rem`,
         }}
-      >
-    <div className="blog-post-container">
+     >
+   return (
+     <div className="blog-post-container">
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>
