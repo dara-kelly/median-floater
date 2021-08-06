@@ -22,7 +22,7 @@ module.exports = {
         path: `${__dirname}/src/markdown-pages`,
       },
     },
-    {
+      {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -32,7 +32,7 @@ module.exports = {
               maxWidth: 800,
             },
           },
-         ],
+        ],
       },
     },
     `gatsby-transformer-sharp`,
