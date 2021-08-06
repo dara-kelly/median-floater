@@ -1,7 +1,7 @@
 body {
   background-color: #ff0;
   font-family: "Merriweather";
-  font-size: 14px;
+  font-size: 16px;
   color: #f00;
 }
 
@@ -16,7 +16,7 @@ div.blog-post-content {
   background-color: #fff;
   color: #1f1f1f;
   margin: auto;
-  max-width: 840px;
+  max-width: 960px;
 }
 
 p {
@@ -26,16 +26,22 @@ p {
 
 h1 {
   font-family: "Montserrat";
-  font-weight: bold;
+  font-size: 24px;
+  margin-left: 16rem;
+  margin-bottom: 0;
 }
 
 h2 {
   font-family: "Montserrat";
   font-weight: oblique;
-  font-size: 16px
+  font-size: 20px;
+  color: #ff8080;
+  margin-left: 18rem;
 }
 h3 {
-  font-size: 16px;
+  font-size: 20px;
+  color: "#636363";
+  margin: auto;
 }
 
 ul {
