@@ -8,8 +8,9 @@ body {
 div.full {
   background-color: #fff;
   color: #1f1f1f;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin: auto;
+  padding: 5%;
+  max-width: 960px;
   line-height: 1.6;
 }
 
