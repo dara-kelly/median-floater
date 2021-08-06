@@ -1,5 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
+import Header from "../components/header"
+
 
 export default function Template({
   data, 
@@ -7,6 +9,7 @@ export default function Template({
   const { markdownRemark } = data 
   const { frontmatter, html } = markdownRemark
   return (
+    <Header />
     <div className="blog-post-container">
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
