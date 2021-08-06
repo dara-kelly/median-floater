@@ -6,6 +6,7 @@ import Header from "../components/header"
 export default function Template({
   data, 
 }) {
+  const { Header } = Header
   const { markdownRemark } = data 
   const { frontmatter, html } = markdownRemark
   return (
@@ -35,6 +36,7 @@ export default function Template({
 export const pageQuery = graphql`
   query($id: String!) {
     markdownRemark(id: { eq: $id }) {
+      Header
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
