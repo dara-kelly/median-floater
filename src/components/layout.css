@@ -16,6 +16,7 @@ div.blog-post-content {
   background-color: #fff;
   color: #1f1f1f;
   margin: auto;
+  padding: 2rem;
   max-width: 960px;
 }
 
@@ -27,7 +28,7 @@ p {
 h1 {
   font-family: "Montserrat";
   font-size: 24px;
-  margin-left: 16rem;
+  margin-left: 20%;
   margin-bottom: 0;
 }
 
@@ -36,7 +37,7 @@ h2 {
   font-weight: oblique;
   font-size: 20px;
   color: #ff8080;
-  margin-left: 18rem;
+  margin-left: 25%;
 }
 h3 {
   font-size: 20px;
