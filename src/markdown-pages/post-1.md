@@ -14,6 +14,9 @@ Nam pretium, eros id laoreet malesuada, elit purus accumsan nunc, rutrum auctor 
 
 Aenean suscipit tellus eu magna sodales pulvinar. Nunc a lacus nec eros tempor ornare id sed est. Praesent tempor justo in orci pellentesque tempus. Praesent placerat hendrerit eros non iaculis. Nulla sodales, diam sit amet sodales vulputate, ipsum lacus ultricies ligula, in imperdiet nibh massa id magna. Nam efficitur, neque sed interdum rhoncus, risus tortor pellentesque nibh, vitae interdum erat arcu non urna. Proin eu erat erat. Vivamus ullamcorper vehicula odio posuere porta. Cras bibendum ex at nisl auctor egestas. Suspendisse id pharetra urna. Praesent nec molestie dolor. In tempor luctus neque. Nullam nec luctus est. Vestibulum pellentesque pulvinar velit, nec finibus nulla finibus nec. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Pellentesque id venenatis odio.
 
+![MPG vs Weight](../components/images/mpgwt.svg)
+<img src="../components/images/mpgwt.svg">
+
 #### Qu'est ce que
 
 Quisque ligula orci, fermentum id tellus ut, auctor aliquet augue. Aliquam tincidunt est sit amet felis tincidunt accumsan. Integer sit amet mauris id arcu congue condimentum. Mauris blandit non sapien eu vestibulum. Suspendisse potenti. Phasellus viverra dignissim purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vitae pellentesque orci, et dapibus tortor. In lobortis commodo metus, sit amet dapibus nunc. Nulla ut molestie nibh, sed interdum tortor.
