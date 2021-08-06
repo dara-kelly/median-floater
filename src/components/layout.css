@@ -12,11 +12,10 @@ div.full {
   margin-right: 1rem
 }
 
-div.blog-post {
+div.blog-post-content {
   background-color: #fff;
   color: #1f1f1f;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin: auto;
   max-width: 840px;
 }
 
