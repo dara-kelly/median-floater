@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Layout from "../components/layout"
 
 export default function Template({
   data, 
@@ -9,7 +8,6 @@ export default function Template({
   const { frontmatter, html } = markdownRemark
   return (
     <div className="blog-post-container">
-    <Layout>
       <div className="blog-post">
         <h1>{frontmatter.title}</h1>
         <h2>{frontmatter.date}</h2>
