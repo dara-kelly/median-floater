@@ -9,7 +9,7 @@ export default function Template({
   const { markdownRemark } = data 
   const { frontmatter, html } = markdownRemark
   return (
-    <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
+    <Header siteTitle={data.site.siteMetadata?.title || `Title`}>
       <div
         style={{
           margin: `0 auto`,
@@ -17,6 +17,7 @@ export default function Template({
           padding: `0 1.0875rem 1.45rem`,
         }}
      >
+       <Header/>
    return (
      <div className="blog-post-container">
       <div className="blog-post">
