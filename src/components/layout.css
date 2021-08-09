@@ -6,7 +6,8 @@ body {
 }
 
 ::selection {
-  background: #ffff99;
+  background: #f00;
+  color: #fafafa;
 }
 
 div.full {
