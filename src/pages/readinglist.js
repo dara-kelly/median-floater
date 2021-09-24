@@ -61,6 +61,30 @@ const readinglistPage = () => (
 		
 	</ul>
 	</div>
+	<div>
+		<table style="width: 50%">
+			<tr>
+				<td>Author</td>
+				<td>Book</td>
+			</tr>
+			<tr>
+				<td>Pearl, Judea</td>
+				Mtd>Causality</td>
+			</tr>
+			<tr>
+				<td>Jaynes, Edwin T.</td>
+				<td>Probability Theory: The Logic of Science</td>
+			</tr>
+			<tr>
+				<td>Sivia, Devinder</td>
+				<td>Data Analysis: A Bayesian Tutorial</td>
+			</tr>
+			<tr>
+				<td>Hyndman, Rob</td>
+				<td>Forecasting: Principles and Practice</td>
+			</tr>
+		</table>
+	</div>
   </Layout>
 )
 
