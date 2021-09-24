@@ -49,3 +49,19 @@ const readinglistPage = () => (
 		<li>Bolano, Roberto - The Savage Detectives</li>
 		<li>Cohen, Joshua - Witz/Moving Kings </li>
 		<li>Conrad, Joseph - Nostromo </li>
+		<li>Ernaux, Annie - The Years</li>
+		<li>Gaddis, William - JR </li>
+		<li>Gombrowicz, Witold - Cosmos</li>
+		<li>Guimaraes Rosa, Joao - The Devil to Pay in the Backlands</li>
+		<li>Krasznahorkai, Laszlo - Satantango</li>
+		<li>Lewis, Wyndham - Tarr/Childermass</li>
+		<li>Quin, Ann - Three </li>
+		<li>Roth, Philip - Sabbath's Theatre </li>
+		<li>Szentkuthy, Miklos - Prae</li>
+		
+	</ul>
+	</div>
+  </Layout>
+)
+
+export default readinglistPage
