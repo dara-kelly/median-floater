@@ -53,6 +53,7 @@ ul {
   padding-bottom: 3%;
   float:left;
   margin: 2%;
+  width: 50%;
 }
 
 ul:before{
