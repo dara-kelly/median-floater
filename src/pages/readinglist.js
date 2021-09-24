@@ -7,39 +7,48 @@ import Layout from "../components/layout"
 
 const readinglistPage = () => (
   <Layout>
-    <h1>Reading list</h1>
+    <h1>Reading lists</h1>
 <div> 
-    <ul aria-label="Reading List"> 
+    <ul aria-label="Criticism"> 
 		<li> Joan Retallack - The Poethical Wager</li>
-    	<li> Donald Davie - Articulating Energy</li>
-    	<li> Guy Davenport - Geography of the Imagination</li>
-    	<li> Frank Kermode - Romantic Image</li>
-    	<li> Marjorie Perloff - 21st Century Modernism</li> 
-		<li> Louis-Ferdinand Celine - Journey to the End of Night</li>
-		<li> Mathias Enard - Zone</li>
-		<li> Kathy Acker - Empire of the Senseless</li>
-		<li> Ingebord Bachmann - Malina</li>
+    		<li> Donald Davie - Articulating Energy</li>
+    		<li> Guy Davenport - Geography of the Imagination</li>
+    		<li> Frank Kermode - Romantic Image</li>
+    		<li> Marjorie Perloff - 21st Century Modernism</li>
+		<li> Oren Izenberg - Being Numerous</li>
+		<li> Alex Ross - The Rest is Noise</li>
     </ul>
 	</div>
 
 	<div>
 	<ul aria-label="Poets">
-		<li>Carson</li>
-		<li>Celan </li>
-		<li>Cesaire </li>
-		<li>Moore </li>
-		<li>Olson </li>
-		<li>Oppen </li>
-		<li>Pound </li>
-		<li>Prynne </li>
-		<li>Riley </li>
-		<li>Sinclair </li>
-		<li>Zukofksy </li>
+		<li>Carson, Anne</li>
+		<li>Celan, Paul </li>
+		<li>Cesaire, Aime </li>
+		<li>Moore, Marianne </li>
+		<li>Olson, Charles </li>
+		<li>Oppen, George </li>
+		<li>Pound, Ezra </li>
+		<li>Prynne, J. H. </li>
+		<li>Riley, Denise </li>
+		<li>Sinclair, Iain </li>
+		<li>Zukofksy, Louis </li>
 	</ul>
 	</div>
 
 	<div>
+		<ul aria-label="Shelf">
+			<li> Louis-Ferdinand Celine - Journey to the End of Night</li>
+			<li> Mathias Enard - Zone</li>
+			<li> Kathy Acker - Empire of the Senseless</li>
+			<li> Ingeborg Bachmann - Malina</li>
+			<li> Don DeLillo - Americana</li>
+			<li> Henry James - The Golden Bowl</li>
+		</ul>
+	</div>
+	<div>
 	<ul aria-label="Fiction">
+
 		<li>Bernhard, Thomas - Concrete/The Loser </li>
 		<li>Bolano, Roberto - The Savage Detectives</li>
 		<li>Cohen, Joshua - Witz/Moving Kings </li>
