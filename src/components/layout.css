@@ -51,6 +51,8 @@ ul {
   color: #1f1f1f;
   padding-top: 3%;
   padding-bottom: 3%;
+  float:left;
+  margin: 2%;
 }
 
 ul:before{
@@ -59,8 +61,8 @@ ul:before{
   font-weight:bold;
   margin-left:-15px;
   color: #f00;
-  text-decoration: underline solid 8px #0ff;
-  top: -0.5em
+  text-decoration: underline solid 7px #0ff;
+  top: -0.75em
 }
 
 li {
