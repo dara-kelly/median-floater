@@ -7,6 +7,7 @@ import Layout from "../components/layout"
 
 const readinglistPage = () => (
   <Layout>
+	<Seo title="Reading List"/>
     <h1>Reading lists</h1>
 <div> 
     <ul aria-label="Criticism"> 
