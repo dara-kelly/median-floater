@@ -69,7 +69,7 @@ const readinglistPage = () => (
 			</tr>
 			<tr>
 				<td>Pearl, Judea</td>
-				Mtd>Causality</td>
+				<td>Causality</td>
 			</tr>
 			<tr>
 				<td>Jaynes, Edwin T.</td>
