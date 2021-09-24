@@ -9,25 +9,21 @@ const readinglistPage = () => (
   <Layout>
     <h1>Reading list</h1>
 <div> 
-    <ul> 
-	<li> Joan Retallack - The Poethical Wager</li>
+    <ul aria-label="Reading List"> 
+		<li> Joan Retallack - The Poethical Wager</li>
     	<li> Donald Davie - Articulating Energy</li>
-    	<li> Hugh Kenner - The Pound Era</li>
-    	<li> Guy Davenport - Geographies of the Imagination</li>
+    	<li> Guy Davenport - Geography of the Imagination</li>
     	<li> Frank Kermode - Romantic Image</li>
     	<li> Marjorie Perloff - 21st Century Modernism</li> 
-    	<li> Anne Carson - Eros the Bittersweet</li>
-	<li> Louis-Ferdinand Celine - Journey to the End of Night</li>
-	<li> Alain Robbe-Grillet - The Voyeur</li>
-	<li> Mathias Enard - Zone</li>
-	<li> Kathy Acker - Empire of the Senseless</li>
-	<li> Ingebord Bachmann - Malina</li>
+		<li> Louis-Ferdinand Celine - Journey to the End of Night</li>
+		<li> Mathias Enard - Zone</li>
+		<li> Kathy Acker - Empire of the Senseless</li>
+		<li> Ingebord Bachmann - Malina</li>
     </ul>
 	</div>
 
 	<div>
-	<h1>Poetry</h1>
-	<ul>
+	<ul aria-label="Poets">
 		<li>Carson</li>
 		<li>Celan </li>
 		<li>Cesaire </li>
@@ -43,8 +39,7 @@ const readinglistPage = () => (
 	</div>
 
 	<div>
-		<h1>Fiction</h1>
-	<ul >
+	<ul aria-label="Fiction">
 		<li>Bernhard, Thomas - Concrete/The Loser </li>
 		<li>Bolano, Roberto - The Savage Detectives</li>
 		<li>Cohen, Joshua - Witz/Moving Kings </li>
@@ -62,28 +57,38 @@ const readinglistPage = () => (
 	</ul>
 	</div>
 	<div>
-		<table style="width: 50%">
-			<tr>
-				<td>Author</td>
-				<td>Book</td>
-			</tr>
-			<tr>
-				<td>Pearl, Judea</td>
-				<td>Causality</td>
-			</tr>
-			<tr>
-				<td>Jaynes, Edwin T.</td>
-				<td>Probability Theory: The Logic of Science</td>
-			</tr>
-			<tr>
-				<td>Sivia, Devinder</td>
-				<td>Data Analysis: A Bayesian Tutorial</td>
-			</tr>
-			<tr>
-				<td>Hyndman, Rob</td>
-				<td>Forecasting: Principles and Practice</td>
-			</tr>
-		</table>
+		<ul aria-label="Probability & Statistics">
+				<li>Pearl, Judea - Causality</li>
+				<li>Jaynes, Edwin T. - Probability Theory: The Logic of Science</li>
+				<li>Sivia, Devinder - Data Analysis: A Bayesian Tutorial</li>
+				<li>Hyndman, Rob - Forecasting: Principles and Practice</li>
+				<li>Gelman et al. - Bayesian Data Analysis</li>
+				<li>Feller - Introduction to Probability Theory and its Applications</li>
+				<li>Freedman, David, Robert Pisani and Roger Purves - Statistics</li>
+			</ul>
+	</div>
+	<div>
+		<ul aria-label="Maths">
+			<li>Abbott, Stephen - Understanding Analysis</li>
+			<li>Chiswell, Ian and Wilfrid Hodges - Mathematical Logic</li>
+			<li>Takeuti, Gaisi - Proof Theory</li>
+			<li>Girard, Jean-Yves - The Blind Spot</li>
+			<li>Mendelson, Bert - Introduction to Topology</li>
+			<li>Janich, Klaus - Topology</li>
+			<li>Graham, Ronald L., Donald E. Knuth and Oren Patashnik - Concrete Mathematics</li>
+			<li>Polya, George - How to Solve it</li>
+			<li>Halmos, Paul - Naive Set Theory</li>
+			<li>Strang, Gil - Linear Algebra</li>
+			<li>Jech, Thomas - Set Theory</li>
+		</ul>
+	</div>
+	<div>
+		<ul aria-label="Computing">
+			<li>Boolos, George and Richard Jeffrey - Computability and Logic</li>
+			<li>Davis, Martin - Computability and Unsolvability</li>
+			<li>Abelson, Hal, Jerry Sussman and Julie Sussman - Structure and Interpretation of Computer Programmes</li>
+			<li>Sipser, Introduction to the Theory of Computation</li>
+		</ul>
 	</div>
   </Layout>
 )
